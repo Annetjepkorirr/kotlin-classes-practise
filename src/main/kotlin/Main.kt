@@ -160,7 +160,7 @@ class Baobab( val magicalPowers: Map<String, String>, val fruits: Map<String, St
         return if (currentSeason.toLowerCase() == "wet") {
             "dry"
         } else {
-            "wet"
+            "wety"
         }
     }
 }
